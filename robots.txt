@@ -1,2 +1,2 @@
 User-agent: *Allow:/
-Sitemap: https:/hyeopwork.com/sitemap.xml
+Sitemap: https://hyeopwork.com/sitemap.xml
