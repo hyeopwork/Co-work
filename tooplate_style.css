@@ -79,8 +79,8 @@ h6 { font-size: 12px; margin: 0 0 5px; padding: 0; }
 }
 
 #tooplate_bottom_wrapper {
-	width: 960px;
-	background: #393939;
+	width: 100%;
+	background: #EFFBF2;
 }
 
 #tooplate_bottom {
@@ -91,8 +91,8 @@ h6 { font-size: 12px; margin: 0 0 5px; padding: 0; }
 }
 
 #tooplate_footer_wrapper {
-	width: 960px;
-	background: #272b2b;
+	width: 100%;
+	background: #EFFBF2;
 }
 
 #tooplate_footer {
